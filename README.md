@@ -23,6 +23,9 @@ The app uses the **OpenWeatherMap** Current Weather API:
 
 You need to create your own API key from `https://openweathermap.org/` (https://openweathermap.org/)
 
+# Vercel Live URL
+  Live URL: https://101499955-comp3123-labtest2.vercel.app/
+
 # Setup Steps:
 1. Clone the repository:
    git clone https://github.com/<your-username>/101499955_comp3123_labtest2.git
