@@ -32,7 +32,7 @@ You need to create your own API key from `https://openweathermap.org/` (https://
     npm install
 
 3. Replace the line in the .env file in the project root:
-    FROM: REACT_APP_OPENWEATHER_API_KEY=647bed9aab89c0dd89b872114f3f10f1
+    FROM: REACT_APP_OPENWEATHER_API_KEY=my_api_key
 
     TO: REACT_APP_OPENWEATHER_API_KEY=Your_own_api_key
 
