@@ -41,3 +41,8 @@ You need to create your own API key from `https://openweathermap.org/` (https://
 
 5. Open your browser and test with the url: 
     http://localhost:3000
+
+
+Screenshots of app:
+![alt text](image.png)
+![alt text](image-1.png)
